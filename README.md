@@ -2,11 +2,11 @@
 
 홈페이지 만들기
 
-feature 1 메인페이지 만들기
-issue1 : 배너 만들기
-issue2 : 사이드바 만들기
-feature 2 소개페이지 만들기
-issue1 : 역사, 목표, 인원
+- feature 1 메인페이지 만들기  
+  - issue1 : 배너 만들기  
+  - issue2 : 사이드바 만들기  
+- feature 2 소개페이지 만들기  
+  - issue1 : 역사, 목표, 인원  
 
 
 
